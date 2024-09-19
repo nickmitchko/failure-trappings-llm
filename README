@@ -1,0 +1,29 @@
+Getting Started
+---------------
+
+### Step 1: Create a Python Virtual Environment
+
+Open a terminal in the project directory and run the following command to create a new virtual environment:
+
+```bash
+python -m venv venv
+```
+
+### Step 2: Activate the Virtual Environment
+
+To activate the virtual environment on Windows, run the following command:
+
+```ps1
+venv\Scripts\activate
+```
+
+To activate the virtual environment on others, run the following command:
+
+```bash
+source venv/bin/activate
+```
+
+### Step 3: Run one of the items
+
+
+
