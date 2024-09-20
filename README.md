@@ -1,4 +1,4 @@
-# Failure Trappings LLM
+# Failure Trappings LLM <div align="right">
 
 This repository, `nickmitchko/failure-trappings-llm`, is a collection of examples demonstrating various approaches to content moderation and filtering for Large Language Models (LLMs). The project aims to showcase different techniques for ensuring safe and appropriate interactions with AI language models.
 
@@ -11,6 +11,9 @@ The repository contains several Python scripts, each demonstrating a different a
 3. `statistical/1-rule-based.py`: Demonstrates a simple rule-based filtering approach.
 4. `statistical/12-part-of-speech-tag.py`: Uses NLTK for part-of-speech tagging to filter content.
 5. `statistical/15-human-in-the-loop.py`: Illustrates a human-in-the-loop approach for content moderation.
+
+  <img src="https://github.com/user-attachments/assets/9da7d2ba-0628-4486-a4a6-76b6aadaa881" width="32" height="32" alt="00005-652596350">
+</div>
 
 ## Getting Started
 
