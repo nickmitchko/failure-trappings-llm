@@ -2,3 +2,4 @@ nltk
 openai
 torch
 transformers
+streamlit
